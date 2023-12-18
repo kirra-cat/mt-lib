@@ -152,6 +152,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CSKRIFPR
 
 [Document7]
+DocumentPath=ICs_LDO.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VHMNDAXS
+
+[Document8]
 DocumentPath=ICs_Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCINVZPP
 
-[Document8]
+[Document9]
 DocumentPath=ICs_ESD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPPIYDRL
 
-[Document9]
+[Document10]
 DocumentPath=ICs_Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXZMSMJZ
 
-[Document10]
+[Document11]
 DocumentPath=ICs_Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKHOITXL
 
-[Document11]
+[Document12]
+DocumentPath=ICs_OpAmp.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QXPNUHDL
+
+[Document13]
+DocumentPath=ICs_Reference.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SVWRKCEL
+
+[Document14]
 DocumentPath=ICs_USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBTBFLHZ
 
-[Document12]
+[Document15]
 DocumentPath=ICs_Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +304,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZMFUVUXQ
 
-[Document13]
+[Document16]
+DocumentPath=Diodes.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJSVFJDY
+
+[Document17]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBSBZKUL
 
-[Document14]
+[Document18]
 DocumentPath=Resistors_GP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDVCUXSO
 
-[Document15]
+[Document19]
 DocumentPath=Resistors_HP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,8 +372,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGORANKI
 
-[Document16]
-DocumentPath=ICs_JEDEC.PcbLib
+[Document20]
+DocumentPath=Capacitors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GYQJPTPM
+
+[Document21]
+DocumentPath=JEDEC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOFOYJQE
 
-[Document17]
+[Document22]
 DocumentPath=ICs_VendorSpecific.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAIKFMAP
 
-[Document18]
+[Document23]
 DocumentPath=Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

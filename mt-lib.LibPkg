@@ -373,6 +373,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZMFUVUXQ
 
 [Document20]
+DocumentPath=LEDs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VIIZXDAK
+
+[Document21]
 DocumentPath=RF_Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDRFANMQ
 
-[Document21]
+[Document22]
 DocumentPath=RF_Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZOMMLHYO
 
-[Document22]
+[Document23]
 DocumentPath=Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJSVFJDY
 
-[Document23]
+[Document24]
 DocumentPath=Transistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBSBZKUL
 
-[Document24]
+[Document25]
 DocumentPath=Power_Inductor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHUQKMDJ
 
-[Document25]
+[Document26]
 DocumentPath=Power_Filters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKLBFPRF
 
-[Document26]
+[Document27]
 DocumentPath=Misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKWWOOOP
 
-[Document27]
+[Document28]
 DocumentPath=Buttons.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKMPJIMH
 
-[Document28]
+[Document29]
 DocumentPath=Oscillators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMBMKIIO
 
-[Document29]
+[Document30]
 DocumentPath=Resistors_GP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDVCUXSO
 
-[Document30]
+[Document31]
 DocumentPath=Resistors_HP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGORANKI
 
-[Document31]
+[Document32]
 DocumentPath=Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GYQJPTPM
 
-[Document32]
+[Document33]
 DocumentPath=JEDEC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOFOYJQE
 
-[Document33]
+[Document34]
 DocumentPath=ICs_VendorSpecific.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAIKFMAP
 
-[Document34]
+[Document35]
 DocumentPath=Discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYGNTVGR
 
-[Document35]
+[Document36]
 DocumentPath=RF_Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNAEAGUE
 
-[Document36]
+[Document37]
 DocumentPath=Power_Filters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQILTGQI
 
-[Document37]
+[Document38]
 DocumentPath=Power_Inductor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFTTFNSE
 
-[Document38]
+[Document39]
 DocumentPath=Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -694,6 +711,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJRSDCMH
+
+[Document40]
+DocumentPath=Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SDAHRAHP
 
 [OutputGroup1]
 Name=Netlist Outputs
